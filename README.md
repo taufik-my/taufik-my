@@ -4,8 +4,8 @@ Hi 👋 My name is Taufik!
 I am currently in my senior year of undergraduate double majoring in Computer Science and Biz Tech Management, with a minor in Science and Technology Policy.
 
 * 🌍  I travel: 25/195 countries visited.
-* 🌱  I’m currently learning ...
-* 🤝  I'm open to collaborating on Sustainability, Climate, and Environmental Data Science projects.
+* 🌱  interested in computational sustainability
+* 🤝  open to collaborating on Sustainability, Climate, and Environmental Data Science projects.
 
 ### Skills
 
