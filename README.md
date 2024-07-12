@@ -3,9 +3,9 @@ Hi 👋 My name is Taufik!
 
 I am currently in my senior year of undergraduate double majoring in Computer Science and Biz Tech Management, with a minor in Science and Technology Policy.
 
-* 🌍  I'm based in interested in computational sustainability.
-* 🧠  I'm learning deep learning and software development.
-* 🤝  I'm open to collaborating on Sustainability, Climate, and Environmental Data Science projects
+* 🌍  I'm interested in computational sustainability.
+* 🧠  I'm learning AI and software development.
+* 🤝  I'm open to collaborating on Sustainability, Climate, and Environmental Data Science projects.
 * ⚡  I travel: 25/195 countries visited, most of them for free!
 
 ### Skills
@@ -15,6 +15,8 @@ I am currently in my senior year of undergraduate double majoring in Computer Sc
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 </p>
 
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taufik-my&layout=compact)
 
 
 <!--
