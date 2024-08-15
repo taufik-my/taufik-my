@@ -1,4 +1,4 @@
-Hi 👋 My name is Taufik!
+Hi 👋 I'm Taufik!
 ========================
 
 I am currently in my senior year of undergraduate double majoring in Computer Science and Biz Tech Management, with a minor in Science and Technology Policy.
