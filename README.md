@@ -6,7 +6,7 @@ I am currently in my senior year of undergraduate double majoring in Computer Sc
 * 🌍  I'm interested in computational sustainability.
 * 🧠  I'm learning AI and software development.
 * 🤝  I'm open to collaborating on sustainability, climate, and environmental data science projects.
-* ⚡  I travel: 25/195 countries visited, most of them for free!
+
 
 ### Skills
 
