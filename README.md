@@ -1,7 +1,7 @@
 Hi 👋 I'm Taufik!
 ========================
 
-I am currently in my senior year of undergraduate double majoring in Computer Science and Biz Tech Management, with a minor in Science and Technology Policy.
+I am currently a master's student in Engineering and Policy Analysis at TU Delft. Previously, I studied at KAIST, double majoring in Computer Science and Biz Tech Management, with a minor in Science and Technology Policy.
 
 * 🌍  I'm interested in computational sustainability.
 * 🧠  I'm learning AI and software development.
